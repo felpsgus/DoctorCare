@@ -2,7 +2,7 @@
   <img alt="DoctorCare" src="assets/Capa.png" width="100%">
 </p>
 
-Confira a aplicação: felpsgus.github.io/doctorcare/
+Confira a aplicação: https://felpsgus.github.io/doctorcare/
 
 ## 🚀 Tecnologias
 
